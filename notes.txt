@@ -1,0 +1,5 @@
+# Note prese durante presentazione
+
+boolean tensor decomposition to deal w/ binary matrices
+add fourth dim: prices
+use another value rather than 1/0 in cells
