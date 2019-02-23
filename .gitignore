@@ -1,1 +1,7 @@
-data/
+historical-prices/
+*.gz
+*.aux
+*.out
+*.log
+*.blg
+*.bbl
